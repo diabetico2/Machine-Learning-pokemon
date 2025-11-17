@@ -11,7 +11,7 @@ Para atender aos requisitos de complexidade, foram comparados dois algoritmos de
 
 ## 👥 Autores
 * **Allan José e Jean Daga**
-* 
+
 ## 🏫 Informações da Disciplina
 * **Instituição:** Centro Universitário Assis Gurgacz - FAG Toledo
 * **Professor:** Luan Oliveira
