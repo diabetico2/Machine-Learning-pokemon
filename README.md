@@ -18,9 +18,8 @@ Para atender aos requisitos de complexidade, foram comparados dois algoritmos de
 * **Data de Entrega:** Novembro/2025
 
 ## 📂 Estrutura do Repositório
-* `Trabalho_Final_Pokemon.ipynb`: O código fonte completo (Notebook) com toda a análise, gráficos e modelos.
+* `Trabalho Allan e Jean Machine Learning.ipynb`: O código fonte completo (Notebook) com toda a análise, gráficos e modelos.
 * `pokemon.csv`: A base de dados utilizada no projeto.
-* `Apresentacao_Projeto.pdf`: Slides contendo o resumo do domínio, metodologia e conclusões.
 
 ## 🚀 Como Executar
 O projeto foi desenvolvido para ser executado no **Google Colab**.
